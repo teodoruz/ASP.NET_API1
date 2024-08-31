@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\interfaces\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\interfaces\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\interfaces\\repository\\iclientrepoditory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\interfaces\\repository\\iclientrepoditory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\api.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\api.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7243A-FD50-41BB-AD4E-FFE7079521FC}|API.Aplication\\API.Aplication.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.aplication\\api.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51D7243A-FD50-41BB-AD4E-FFE7079521FC}|API.Aplication\\API.Aplication.csproj|solutionrelative:api.aplication\\api.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\api.domain\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B6D86A-BF0C-439B-8BF2-36BADB350CB1}|API.Domain\\API.Domain.csproj|solutionrelative:api.domain\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9652DBC8-8558-4F0C-92CD-9644FD1E1BBA}|FirstAPI\\FirstAPI.csproj|c:\\users\\marcos\\desktop\\api_c#_.netcore\\firstapi\\firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9652DBC8-8558-4F0C-92CD-9644FD1E1BBA}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "API.Domain\\interfaces\\Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "API.Domain\\interfaces\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:39:21.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "API.Domain\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\OrderModel.cs",
+              "RelativeToolTip": "API.Domain\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:03:01.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "API.Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "API.Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:37:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "API.Domain\\interfaces\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "API.Domain\\interfaces\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:34:43.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\ClientModel.cs",
+              "RelativeDocumentMoniker": "API.Domain\\Models\\ClientModel.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\ClientModel.cs",
+              "RelativeToolTip": "API.Domain\\Models\\ClientModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:46:48.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "API.Domain\\Models\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\EntityBase.cs",
+              "RelativeToolTip": "API.Domain\\Models\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:45:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\OrderItemModel.cs",
+              "RelativeDocumentMoniker": "API.Domain\\Models\\OrderItemModel.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\OrderItemModel.cs",
+              "RelativeToolTip": "API.Domain\\Models\\OrderItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:05:17.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "API.Domain\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\ProductModel.cs",
+              "RelativeToolTip": "API.Domain\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:59:50.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "API.Domain\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Models\\UserModel.cs",
+              "RelativeToolTip": "API.Domain\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:57:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClientRepoditory.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IClientRepoditory.cs",
+              "RelativeDocumentMoniker": "API.Domain\\interfaces\\Repository\\IClientRepoditory.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\interfaces\\Repository\\IClientRepoditory.cs",
+              "RelativeToolTip": "API.Domain\\interfaces\\Repository\\IClientRepoditory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:24:57.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "API.Domain",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\API.Domain.csproj",
+              "RelativeDocumentMoniker": "API.Domain\\API.Domain.csproj",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\API.Domain.csproj",
+              "RelativeToolTip": "API.Domain\\API.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T20:43:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API.Domain\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API.Domain\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T20:55:17.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "API.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\Program.cs",
+              "RelativeToolTip": "API.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:43:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API.Domain\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Domain\\WeatherForecast.cs",
+              "RelativeToolTip": "API.Domain\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:42:54.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "API.Aplication",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Aplication\\API.Aplication.csproj",
+              "RelativeDocumentMoniker": "API.Aplication\\API.Aplication.csproj",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\API.Aplication\\API.Aplication.csproj",
+              "RelativeToolTip": "API.Aplication\\API.Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T20:37:41.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FirstAPI",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\FirstAPI\\FirstAPI.csproj",
+              "RelativeDocumentMoniker": "FirstAPI\\FirstAPI.csproj",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\API_C#_.NETCORE\\FirstAPI\\FirstAPI\\FirstAPI.csproj",
+              "RelativeToolTip": "FirstAPI\\FirstAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T20:37:34.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
